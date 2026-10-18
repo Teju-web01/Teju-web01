@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Teju-web01/Teju-web01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Teju 👋
 
-Here are some ideas to get you started:
+🎓 ECE Student at KSIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Exploring the world of technology.
+- Interested in web development and embedded systems.
+- Building projects to improve my skills.
+- Looking forward to building my first projects.
+
+## Goals
+- Learn programming step by step.
+- Build practical projects.
+- Participate in hackathons.
+- Grow my technical skills.
+- Develop my technical portfolio.
+
+---
+*Starting small, learning, and building something meaningful.*
